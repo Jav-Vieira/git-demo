@@ -1,2 +1,3 @@
 this is the first artifact for the project1
-a bug right here
+changed resolved the bug right here
+ok
